@@ -5,7 +5,6 @@
     android:orientation="vertical"
     android:padding="16dp">
 
-
     <Button
         android:id="@+id/buttonPassIntegar"
         android:layout_width="match_parent"
